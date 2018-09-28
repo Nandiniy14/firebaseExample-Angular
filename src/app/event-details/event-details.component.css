@@ -1,0 +1,24 @@
+.col-xs-6{
+    float: left;
+    left: 18%;
+}
+.btn-space {
+    margin-right: 5px;
+    margin-bottom: 15px;
+}
+box{
+    text-align: center;
+    border: 2px solid green;
+    width:25%;
+    height:70px;
+    padding:15px;
+    margin:10px;
+   
+    }
+a:hover{color:white;}
+.box:hover{
+    background-color: #D7DBDD;
+}
+.arr{
+    text-decoration: none;
+}
